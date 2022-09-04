@@ -18,7 +18,7 @@ global.instagram = 'https://instagram.com/Jarotr_'
 global.dana = ''
 global.saweria = ''
 global.pulsa = '6281947707409'
-global.yt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+global.yt = 'https://youtube.com/channel/UCX6GursvJyxnoOx4rF2tDRQ'
 global.mods = [] // Want some help?
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 15.000\nMAKSIMAL 2 GRUP\n》2 BULAN 25.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 40.000\nMAKSIMAL 2 GRUP'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
