@@ -54,8 +54,8 @@ process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
-  var sticker_name = '@𝐎𝐒𝐂𝐀𝐑-𝐌𝐃'
-  var sticker_author = '𝐎𝐬𝐜𝐚𝐫'
+  var sticker_name = '@︶꒷꒦乂REX-MD乂꒦꒷︶'
+  var sticker_author = 'REX-MD'
 } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
@@ -72,7 +72,7 @@ fs.watchFile(file_exif, () => {
 // Sticker WM
 global.packname = sticker_name
 global.author = sticker_author
-global.wm = '©𝐎𝐒𝐂𝐀𝐑-𝐌𝐝'
+global.wm = '©︶꒷꒦乂REX-MD乂꒦꒷︶'
 
 global.anu = 'https://telegra.ph/file/054b6fe59958df5ad6b1f.jpg'
 
