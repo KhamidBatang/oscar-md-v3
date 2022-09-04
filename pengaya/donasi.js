@@ -21,7 +21,7 @@ let handler = async (m, { conn }) => conn.send2ButtonLoc(m.chat, await (await fe
 ║➸ *Instasgram*
 ║ https://instagram.com/khamid_serba_ada
 ║➸ *Youtube*
-║ https://tinyurl.com/2qsejxnw
+║ 
 ║➸ *Github*
 ║ https://github.com
 ╚════════════════════
